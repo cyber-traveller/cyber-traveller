@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cyber-Traveller
+- 👋 Hi, I’m @cyber-traveller
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning Ethical Hacking, Cyberforensic, Blue teaming & Red teaming 
 - 💞️ I’m looking to collaborate on Hacking tools project 
