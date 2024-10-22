@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyber-traveller
+- 👋 Hi, I’m Joel V Jose
 - 👀 I’m interested in Cybersecurity & Full stack development
 - 🌱 I’m currently learning  Full stack development
 - 📫 How to reach me @cybertraveller on instagram 
