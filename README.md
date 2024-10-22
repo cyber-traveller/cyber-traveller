@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyber-traveller
 - 👀 I’m interested in Cybersecurity & Full stack development
-- 🌱 I’m currently learning Ethical Hacking, Cyberforensic, Blue teaming & Red teaming 
+- 🌱 I’m currently learning  Full stack development
 - 📫 How to reach me @cybertraveller on instagram 
 
 <!---
