@@ -2,7 +2,7 @@
 
  
  👀 I’m interested in Full stack development<br/>
- 🌱 I’m currently learning  Full stack development<br/>
+ 🌱 I’m Full stack developer<br/>
 📫 How to reach me on<br/>
 
 ## 🌐 Socials:
