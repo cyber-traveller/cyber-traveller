@@ -87,12 +87,14 @@
 
 ---
 
+## 💰 Support
+
+If my work helps you, you can buy me a coffee:
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cybertraveller)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=cyber-traveller&icon=0&color=0" alt="visitors" />
+</p>
+
 <p align="center"><i>Building in public — follow the journey on <a href="https://instagram.com/cybertraveller">@cybertraveller</a>.</i></p>
----
-[![](https://visitcount.itsvg.in/api?id=cyber-traveller&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/cybertraveller) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
