@@ -57,18 +57,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Swap these placeholders for your real repos. Tip: pin them too (Profile → Customize your pins). -->
-
-| Project | What it is | Stack |
-|--------|------------|-------|
-| **[Project Name](#)** | One-line description of what it does and why it's interesting. | `Tech` `Tech` |
-| **[Project Name](#)** | One-line description of what it does and why it's interesting. | `Tech` `Tech` |
-| **[Project Name](#)** | One-line description of what it does and why it's interesting. | `Tech` `Tech` |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,6 +73,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cyber-traveller&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </p>
 
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="dev quote" />
+</p>
+
 ---
 
 ## 💰 Support
@@ -98,3 +92,4 @@ If my work helps you, you can buy me a coffee:
 </p>
 
 <p align="center"><i>Building in public — follow the journey on <a href="https://instagram.com/cybertraveller">@cybertraveller</a>.</i></p>
+
