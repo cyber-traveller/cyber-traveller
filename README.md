@@ -1,94 +1,169 @@
 <h1 align="center">Hi 👋, I'm Joel V Jose</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Building+AI-native+Products;Cybersecurity+%26+Automation;Open+Source+Enthusiast;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
   <a href="https://github.com/cyber-traveller">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+from+Kerala+🇮🇳;Building+AI-native+Products;Web+%7C+Mobile+%7C+Cybersecurity;Open+Source+Enthusiast;Follow+%40cybertraveller" alt="Typing SVG" />
+    <img src="https://img.shields.io/github/followers/cyber-traveller?label=Followers&style=for-the-badge" />
   </a>
+  <a href="https://github.com/cyber-traveller?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cyber-traveller&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Full-Stack Developer & Freelancer from Kerala, India
-- 🤖 Building AI, Cybersecurity & Developer Tools
-- 💻 MERN, Next.js, Flutter, Python, Node.js
-- 🌐 Deploying apps on VPS, Cloudflare & Vercel
-- 📫 **Email:** joelvjoseofficial@gmail.com
-- 📷 **Instagram:** [@cybertraveller](https://instagram.com/cybertraveller)
+I'm a **Full-Stack Developer** and **Cybersecurity Enthusiast** from **Kerala, India 🇮🇳**.
 
----
+I enjoy building scalable web applications, AI-powered tools, automation systems, and developer-focused products.
 
-## 🌐 Connect with Me
+### Currently Working On
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/cybertraveller)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/joelvjose)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/cyber_traveller)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joelvjoseofficial@gmail.com)
+- 🤖 AI Applications
+- 🌐 Modern Web Platforms
+- 🔐 Cybersecurity Tools
+- ⚡ Automation & APIs
+- ☁️ Cloud Infrastructure
 
 ---
 
-## 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-TypeScript • JavaScript • Python • Rust • Java • C • Bash
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,java,c,bash" />
+</p>
 
 ### Frontend
-React • Next.js • Tailwind CSS • Vite • Three.js
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs" />
+</p>
 
 ### Backend
-Node.js • Express • NestJS • FastAPI • Flask • Socket.IO
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask" />
+</p>
 
 ### Mobile
-Flutter • React Native
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
 
 ### Database
-MongoDB • PostgreSQL • MySQL • Redis • Firebase • Supabase
 
-### DevOps
-Docker • Nginx • AWS • Google Cloud • Cloudflare • Vercel
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-traveller&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-traveller&layout=compact&theme=github_dark&hide_border=true" alt="top langs" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
 </p>
 
-> If the cards don't load, GitHub Stats may be temporarily rate-limited.
+### DevOps & Cloud
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyber-traveller&theme=onedark&no-frame=true&no-bg=true" alt="trophies" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,vercel,nginx,git,github" />
 </p>
 
 ---
 
-## 💡 Dev Quote
+# 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="dev quote" />
-</p>
+<p align="left">
 
----
-
-## ☕ Support
-
-<a href="https://buymeacoffee.com/cybertraveller">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+<a href="mailto:joelvjoseofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
+<a href="https://linkedin.com/in/joelvjose">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/cybertraveller">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/cyber_traveller">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyber-traveller&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-traveller&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=cyber-traveller&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cyber-traveller&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-traveller&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+
+<a href="https://buymeacoffee.com/cybertraveller">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cyber-traveller&label=Profile%20Views&pretty=true" alt="Profile Views" />
+
+<img src="https://visitcount.itsvg.in/api?id=cyber-traveller&label=Profile%20Views&pretty=true"/>
+
 </p>
 
-<p align="center">
-  <b>⭐ Building in Public • AI • Full Stack • Cybersecurity ⭐</b>
-</p>
+<h3 align="center">
+
+Building the future with **AI**, **Cybersecurity**, and **Open Source** 🚀
+
+</h3>
