@@ -65,12 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=cyber-traveller&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-## 📈 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-traveller&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution graph" />
-</p>
-
 ## 🐍 Contribution snake
 
 <p align="center">
