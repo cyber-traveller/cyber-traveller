@@ -1,4 +1,6 @@
-<h1 align="center">Joel V Jose</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Joel%20V%20Jose&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Independent%20Builder&descSize=18&descAlignY=60" alt="Joel V Jose" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=I+turn+ambitious+ideas+into+real%2C+working+software;Full-Stack+Developer+%C2%B7+Independent+Builder;Security-minded+engineering+%C2%B7+AI+that+does+work" alt="Typing intro" />
@@ -59,10 +61,34 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-traveller&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cyber-traveller&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+## 📈 Contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-traveller&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution graph" />
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber-traveller/cyber-traveller/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber-traveller/cyber-traveller/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/cyber-traveller/cyber-traveller/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
 ---
 
 <h3 align="center">Have an idea? <a href="mailto:hello@joelvjose.com?subject=Project%20enquiry%20from%20GitHub">Let's build it →</a></h3>
 
 <p align="center">
   <a href="https://buymeacoffee.com/cybertraveller"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=12,20,24" alt="" />
 </p>
