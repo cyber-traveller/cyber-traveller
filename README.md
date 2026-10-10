@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  Kerala, India 🇮🇳 &nbsp;·&nbsp; I build AI-powered products, developer tools and security tooling.
+  Kerala, India 🇮🇳 &nbsp;·&nbsp; I build AI-powered products, developer tools and security tooling.<br />
+  🌐 <a href="https://joelvjose.com"><b>joelvjose.com</b></a>
 </p>
 
 <p align="center">
+  <a href="https://joelvjose.com"><img src="https://img.shields.io/badge/Portfolio-joelvjose.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/joelvjose"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/cyber_traveller"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/cybertraveller"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
