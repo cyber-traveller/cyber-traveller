@@ -34,24 +34,6 @@
 | **Systems & infrastructure** | Self-hosted Linux deployments with Docker, Nginx and PM2, plus payments, storage and databases |
 | **Experimental engineering** | Hardware controllers, agent tooling, real-time communication. Some become products |
 
-## 🚀 Selected work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**PixelWall**](https://pixelwall.lol) · 🟢 live | Ad marketplace where brands buy permanent spots on a shared pixel grid, with a self-serve dashboard and crypto checkout via self-hosted BTCPay Server. [Details](https://joelvjose.com/work/pixelwall) | Next.js, PostgreSQL, Prisma, BTCPay, Docker |
-| [**PixelWall Marketplace**](https://pixelwall.lol/marketplace) · 🟢 live | Resale market for PixelWall spots. Ownership moves only after payment is verified, with a ledger and dispute flow. [Details](https://joelvjose.com/work/pixelwall-marketplace) | TypeScript, Prisma, USDT-TRC20 |
-| [**DodoChat**](https://dodochat.lol) · 🟢 live | Real-time one-to-one text and video chat with interest matching, WebRTC, rate limiting, reports, bans and an admin panel. [Details](https://joelvjose.com/work/dodochat) | React, TypeScript, Node.js, Socket.IO, WebRTC |
-| **MADFA** · security tool | Defensive, offline document forensics. Extracts artifacts and IOCs and gives an explainable ML verdict. [Details](https://joelvjose.com/work/madfa) | Python, scikit-learn, XGBoost |
-| **Agent Micro** · in development | Handheld controller for terminal-based AI coding agents, with HMAC-authenticated messages. [Details](https://joelvjose.com/work/agent-micro) | Java, Android, Node.js |
-
-## 📦 Open source
-
-| Repo | What it is |
-| --- | --- |
-| [**gev**](https://github.com/cyber-traveller/gev) | Local support-ticket routing API with a safety-focused policy layer (confidence and margin thresholds, human-review gates for ambiguity, incidents and prompt injection) and a benchmark harness |
-| [**parsivel**](https://github.com/cyber-traveller/parsivel) | Converts PDF, images, DOCX, PPTX and XLSX into Markdown and JSON (English-only fork of MinerU) |
-| [**chat-app**](https://github.com/cyber-traveller/chat-app-frontend) · [**dineease**](https://github.com/cyber-traveller/dineease) | MERN apps: real-time chat ([demo](https://0-chatapp.netlify.app)) and restaurant reservations ([demo](https://dineease6000.netlify.app)) |
-
 ## 🛠️ Stack
 
 <p align="center">
